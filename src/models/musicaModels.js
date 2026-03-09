@@ -1,7 +1,7 @@
 let musicas = [
     {
         id:1,
-        nomeMusica:"Confident",
+        nomemusica:"Confident",
         autor:"Justin Bieber, Chance the Rapper",
         link:"https://youtu.be/qnD1hwjR3WU?si=2UL9ReCV65iaTO1P"
 
